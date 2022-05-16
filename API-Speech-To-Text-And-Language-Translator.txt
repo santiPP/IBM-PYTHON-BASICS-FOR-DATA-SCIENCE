@@ -1,5 +1,0 @@
-API de Speech to Text and Language Translator
-Clave de API:
-sQYS3p-f5PSMQfAurbguzbDSDh_rM0FqZCdVf3NDVp5X
-URL:
-https://api.us-south.speech-to-text.watson.cloud.ibm.com/instances/af07c7e6-2922-4031-a1a1-0d234662c374
