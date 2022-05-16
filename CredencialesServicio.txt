@@ -1,4 +1,0 @@
-Credenciales de Servicio: Santi
-
-"access_key_id": "9e4fb13a1c99425b82d5a27e0f7e6b32",
-"secret_access_key": "883957015cc4866ec004d98a1fce689b313cf1045387569c"
